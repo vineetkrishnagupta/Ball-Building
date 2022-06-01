@@ -1,6 +1,7 @@
 # Ball Building game in c
 
-https://user-images.githubusercontent.com/69462765/171347446-0f5b95f9-1c98-4204-98cf-6dfbebb4c8bd.mp4
+
+https://user-images.githubusercontent.com/69462765/171360148-7008b64d-d208-44e4-9f0a-8eb8d6281b9c.mp4
 
 DOWNLOAD PROJECT 
 
